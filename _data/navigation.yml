@@ -1,17 +1,15 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
+  - title: HOME
+    url: /
+  - title: About NYJC
     collection: example-collection
   - title: Example Resource
     resource_room: true
+  - title: Admissions & Admin
+    url: /permalink
+    sublinks:
+      - title: Admissions
+        url: /permalink
+      - title: Administrations
+        url: /permalink
