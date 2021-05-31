@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - about-nyjc/.keep
-      - about-nyjc/our-achievements.md
       - our-strategy.md
