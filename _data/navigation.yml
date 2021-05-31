@@ -3,13 +3,4 @@ links:
   - title: HOME
     url: /
   - title: About NYJC
-    collection: example-collection
-  - title: Example Resource
-    resource_room: true
-  - title: Admissions & Admin
-    url: /permalink
-    sublinks:
-      - title: Admissions
-        url: /permalink
-      - title: Administrations
-        url: /permalink
+    collection: about-nyjc
