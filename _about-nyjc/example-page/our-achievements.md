@@ -9,3 +9,13 @@ We take pride in our achievements – because awards are recognitions of our eff
 
 **Aesthetics, Clubs & Societies (2019)
 **
+
+
+
+
+| SYF 2019 Arts Presentation for Choir | Certificate of Distinction 
+| -------- | -------- |
+| SYF 2019 Arts Presentation for Chinese Orchestra     | Certificate of Distinction     | 
+| SYF 2019 Arts Presentation for Dance (International)     | Certificate of Distinction     | 
+
+
