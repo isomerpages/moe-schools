@@ -4,3 +4,4 @@ collections:
     order:
       - example-page/.keep
       - example-page/example-subpage.md
+      - our-strategy.md
