@@ -9,5 +9,3 @@ We take pride in our achievements – because awards are recognitions of our eff
 
 **Aesthetics, Clubs & Societies (2019)
 **
-
-
