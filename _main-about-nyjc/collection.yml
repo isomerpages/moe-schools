@@ -2,6 +2,6 @@ collections:
   main-about-nyjc:
     output: true
     order:
-      - example-page/.keep
-      - example-page/our-achievements.md
+      - about-nyjc/.keep
+      - about-nyjc/our-achievements.md
       - our-strategy.md
