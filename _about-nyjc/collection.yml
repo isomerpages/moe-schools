@@ -1,5 +1,5 @@
 collections:
-  main-about-nyjc:
+  about-nyjc:
     output: true
     order:
       - our-strategy.md
