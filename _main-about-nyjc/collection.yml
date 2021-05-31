@@ -1,5 +1,5 @@
 collections:
-  about-nyjc:
+  main-about-nyjc:
     output: true
     order:
       - example-page/.keep
