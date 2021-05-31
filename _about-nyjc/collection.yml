@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - example-page/.keep
-      - example-page/about-nyjc.md
+      - example-page/our-achievements.md
       - our-strategy.md
