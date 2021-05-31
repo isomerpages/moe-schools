@@ -7,8 +7,8 @@ We take pride in our achievements – because awards are recognitions of our eff
 
 ![Alt text for image on Isomer site](/images/pic.webp)
 
-**Aesthetics, Clubs & Societies (2019)
-**
+##### Aesthetics, Clubs & Societies (2019)
+
 
 
 
@@ -16,6 +16,4 @@ We take pride in our achievements – because awards are recognitions of our eff
 | SYF 2019 Arts Presentation for Choir | Certificate of Distinction 
 | -------- | -------- |
 | SYF 2019 Arts Presentation for Chinese Orchestra     | Certificate of Distinction     | 
-| SYF 2019 Arts Presentation for Dance (International)     | Certificate of Distinction     | 
-
-
+| SYF 2019 Arts Presentation for Dance (International)     | Certificate of Distinction     |
