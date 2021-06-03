@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - admissions/.keep
+      - admissions/joint-admission-exercise-jae.md
