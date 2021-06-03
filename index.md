@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Nanyang Junior College - Nanyang Junior College - Together We Build
+title: Nanyang Junior College - Together We Build
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
