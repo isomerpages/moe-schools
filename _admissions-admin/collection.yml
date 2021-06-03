@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - administration/.keep
+      - administration/financial-assistance-scheme.md
       - admissions/.keep
       - admissions/joint-admission-exercise-jae.md
