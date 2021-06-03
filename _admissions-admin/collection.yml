@@ -4,5 +4,6 @@ collections:
     order:
       - administration/.keep
       - administration/financial-assistance-scheme.md
+      - administration/insurance-plans-and-claim-process.md
       - admissions/.keep
       - admissions/joint-admission-exercise-jae.md
