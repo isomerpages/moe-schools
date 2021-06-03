@@ -1,5 +1,5 @@
 collections:
-  admissions-and-admin:
+  admissions-admin:
     output: true
     order:
       - admissions/.keep
