@@ -3,7 +3,7 @@ url: ""
 favicon: /images/nanyangjc-logo.webp
 colors:
   primary-color: "#ff4109"
-  secondary-color: "#4372d6"
+  secondary-color: "#ff4109"
   media-colors:
     - title: media-color-one
       color: "#49759a"
