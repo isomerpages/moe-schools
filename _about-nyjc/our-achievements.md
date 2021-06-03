@@ -18,14 +18,11 @@ We take pride in our achievements – because awards are recognitions of our eff
 
 | National School Games A-Division Volleyball Championship - Boys     | Champion     |
 | National School Games A-Division Volleyball Championship - Girls     | Champion     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-
-
+| National School Games A-Division Table-tennis Championships – Boys     | 2nd Runners-up     |
+| National School Games A-Division Table-tennis Championships – Girls     | 2nd Runners-up     |
+| National School Games A-Division Basketball Championship - Boys     | 2nd Runners-up     |
+| National School Games A-Division Basketball Championship - Girls     | 2nd Runners-up     |
+| National School Games A-Division Badminton Championship - Boys     | 1st Runners-up     |
+| National School Games A-Division Badminton Championship - Girls     | 2nd Runners-up     |
+| National Inter-School Dragon Boat Championship - Boys     | 2nd Runners-up (22 men Category)     |
+| National Inter-School Dragon Boat Championship - Boys     | 1st Runners-up (12 men Category)     |
