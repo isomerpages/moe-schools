@@ -2,5 +2,6 @@ collections:
   admissions-admin:
     output: true
     order:
+      - administration/.keep
       - admissions/.keep
       - admissions/joint-admission-exercise-jae.md
