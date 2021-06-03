@@ -11,7 +11,17 @@ We take pride in our achievements – because awards are recognitions of our eff
 
 
 
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Text     | Certificate of Distinction     |
+| Text     | Certificate of Distinction     |
+| Text     | Certificate of Distinction     |
+| Text     | Certificate of Distinction     |
+| Text     | Certificate of Distinction     |
 
+
+| SYF 2019 Arts Presentation for Choir | Certificate of Distinction 
+|
 | SYF 2019 Arts Presentation for Choir | Certificate of Distinction 
 |
 | SYF 2019 Arts Presentation for Choir | Certificate of Distinction 
