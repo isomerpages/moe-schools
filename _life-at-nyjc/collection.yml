@@ -1,4 +1,5 @@
 collections:
   life-at-nyjc:
     output: true
-    order: []
+    order:
+      - ecg-programmes.md
