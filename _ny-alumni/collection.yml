@@ -1,4 +1,5 @@
 collections:
   ny-alumni:
     output: true
-    order: []
+    order:
+      - life-beyond-nyjc.md
