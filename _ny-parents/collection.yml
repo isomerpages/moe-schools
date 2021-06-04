@@ -1,0 +1,4 @@
+collections:
+  ny-parents:
+    output: true
+    order: []
