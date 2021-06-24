@@ -2,6 +2,7 @@ collections:
   admissions-admin:
     output: true
     order:
+      - jae/.keep
       - administration/.keep
       - administration/financial-assistance-scheme.md
       - administration/insurance-plans-and-claim-process.md
