@@ -17,5 +17,4 @@ Please note that the entry criteria may change from year to year and the followi
 | -------- | -------- | -------- |
 | JAE2021     | 6     | 6     |
 
-Students who meet the above cutoff points and who wish to appeal into NYJC can do so here.
-
+Students who meet the above cutoff points and who wish to appeal into NYJC can do so [here](https://nanyangjc.moe.edu.sg/2021/01/28/online-jae-appeal/).
