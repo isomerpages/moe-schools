@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-schools-staging.netlify.app
-prod: https://moe-schools-prod.netlify.app
+staging: https://staging.d1hwlv16kr0dmn.amplifyapp.com/
+prod: https://master.d1hwlv16kr0dmn.amplifyapp.com/
