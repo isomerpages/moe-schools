@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Scheme
-permalink: /admissionsadmin/financial-assistance-scheme
+permalink: /admissionsadmin/financial-assistance-scheme/
 third_nav_title: Administration
 ---
 The Ministry of Education (MOE) provides financial assistance to needy Singaporean students from Government and Government-Aided Schools. For more information on the **Financial Assistance Scheme (FAS)**, please click [here](https://safe.menlosecurity.com/http://www.moe.gov.sg/initiatives/financial-assistance/).

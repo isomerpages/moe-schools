@@ -1,6 +1,6 @@
 ---
 title: Our Strategy
-permalink: /our-strategy
+permalink: /our-strategy/
 ---
 **Let's call a Spade a Spade**
 

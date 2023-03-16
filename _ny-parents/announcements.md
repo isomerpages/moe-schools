@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /ny-parents/announcements
+permalink: /ny-parents/announcements/
 ---
 ## 27 May 2021
 
