@@ -1,0 +1,8 @@
+collections:
+  about-nyjc:
+    output: true
+    order:
+      - our-strategy.md
+      - our-achievements.md
+      - our-school-management-committee-smc.md
+      - our-key-personnel.md

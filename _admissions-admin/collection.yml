@@ -1,0 +1,11 @@
+collections:
+  admissions-admin:
+    output: true
+    order:
+      - administration/.keep
+      - administration/financial-assistance-scheme.md
+      - administration/insurance-plans-and-claim-process.md
+      - admissions/.keep
+      - admissions/joint-admission-exercise-jae.md
+      - admissions/direct-school-admission-dsa.md
+      - admissions/returning-singaporeans.md

@@ -1,0 +1,5 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - training-and-development.md

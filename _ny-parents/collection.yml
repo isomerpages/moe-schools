@@ -1,0 +1,5 @@
+collections:
+  ny-parents:
+    output: true
+    order:
+      - announcements.md

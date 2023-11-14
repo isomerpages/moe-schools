@@ -1,0 +1,5 @@
+collections:
+  ny-alumni:
+    output: true
+    order:
+      - life-beyond-nyjc.md

@@ -1,0 +1,16 @@
+logo: /images/nanyangjc-logo.webp
+links:
+  - title: HOME
+    url: /
+  - title: About NYJC
+    collection: about-nyjc
+  - title: Admissions & ADMIN
+    collection: admissions-admin
+  - title: Life@Nyjc
+    collection: life-at-nyjc
+  - title: Life Beyond NYJC
+    collection: ny-alumni
+  - title: Staff
+    collection: our-staff
+  - title: Ny Parents
+    collection: ny-parents
