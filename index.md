@@ -12,10 +12,10 @@ sections:
       key_highlights:
         - title: Headlines
           description: ""
-          url: https://moe-schools-staging.netlify.app/example-resource/headlines/
+          url: /example-resource/headlines/
         - title: Stories
           description: ""
-          url: https://moe-schools-staging.netlify.app/example-resource/stories/
+          url: /example-resource/stories/
         - title: Media
           description: ""
           url: /privacy/
